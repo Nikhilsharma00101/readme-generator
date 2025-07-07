@@ -9,7 +9,7 @@ A React-based web application scaffolded with Vite or Create React App. Styled u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/readme-generator.git
+git clone https://github.com/Nikhilsharma00101/readme-generator.git
 ```
 
 2. Install dependencies:
